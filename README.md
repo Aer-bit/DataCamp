@@ -1,3 +1,3 @@
-# DataCamp-cheet-sheets
+# DataCamp
 DataCamp cheet sheets and example code.
 
